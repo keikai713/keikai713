@@ -7,7 +7,7 @@ I am a Full Stack Developer.
 
 ### Skills:
 - Java
-- MySQL
+- SQL Databases
 - English Communication (C1)
 
 ### Find me at:
