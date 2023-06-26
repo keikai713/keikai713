@@ -3,7 +3,7 @@
 <!--
 **keikai713/keikai713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a Computer Science Engineer focused on Full Stack Developement.
+I am a graduate and titled Computer Science Engineer focused on Full Stack Developement.
 
 ### Skills:
 - Java programming
